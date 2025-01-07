@@ -1,2 +1,2 @@
 # 歌詞
-![軍歌](/ArmySong)
+![軍歌](/ArmySong/index.md)
