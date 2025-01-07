@@ -1,2 +1,2 @@
 # 歌詞
-![/lyrics/ArmySong](/lyrics/ArmySong)
+![軍歌](/ArmySong)
