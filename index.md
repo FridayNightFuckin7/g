@@ -1,2 +1,2 @@
 # 歌詞
-![/ArmySong/](軍歌)
+![/ArmySong/index.html](軍歌)
