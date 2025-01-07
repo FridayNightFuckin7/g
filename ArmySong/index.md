@@ -1,2 +1,2 @@
 # 軍歌
-![我らの国](/Japan)
+![我らの国](/ArmySong/Japan)
