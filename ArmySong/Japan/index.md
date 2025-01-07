@@ -1,2 +1,2 @@
 # 我らの国
-![拔刀隊](/jp)
+![拔刀隊](/ArmySong/Japan/jpg)
